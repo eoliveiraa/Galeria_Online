@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\models\\imagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:models\\imagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\galeriaonline.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:galeriaonline.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Imagem.cs",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\Models\\Imagem.cs",
+              "RelativeDocumentMoniker": "Models\\Imagem.cs",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\Models\\Imagem.cs",
+              "RelativeToolTip": "Models\\Imagem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:45:44.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GaleriaOnlineDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\DbContextImagem\\GaleriaOnlineDbContext.cs",
+              "RelativeDocumentMoniker": "DbContextImagem\\GaleriaOnlineDbContext.cs",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\DbContextImagem\\GaleriaOnlineDbContext.cs",
+              "RelativeToolTip": "DbContextImagem\\GaleriaOnlineDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:54:26.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GaleriaOnline.WebApi",
+              "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj",
+              "RelativeDocumentMoniker": "GaleriaOnline.WebApi.csproj",
+              "ToolTip": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi.csproj",
+              "RelativeToolTip": "GaleriaOnline.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T11:44:21.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
