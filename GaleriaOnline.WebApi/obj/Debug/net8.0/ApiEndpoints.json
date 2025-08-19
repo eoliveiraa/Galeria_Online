@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "GaleriaOnline.WebApi.Controllers.ImagemController",
+    "Method": "GetTodasImagens",
+    "RelativePath": "api/Imagem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GaleriaOnline.WebApi.Controllers.ImagemController",
+    "Method": "GetImagemPorId",
+    "RelativePath": "api/Imagem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GaleriaOnline.WebApi.Controllers.ImagemController",
+    "Method": "UploadImagem",
+    "RelativePath": "api/Imagem/Upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Arquivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Nome",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
