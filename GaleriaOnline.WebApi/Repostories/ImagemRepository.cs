@@ -3,9 +3,10 @@ using GaleriaOnline.WebApi.Interfaces;
 using GaleriaOnline.WebApi.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace GaleriaOnline.WebApi.Repostories
+namespace GaleriaOnline.WebApi.Repositories
 {
     public class ImagemRepository : IimagemRepository
+
     {
         private readonly GaleriaOnlineDbContext _context;
 
@@ -14,36 +15,35 @@ namespace GaleriaOnline.WebApi.Repostories
             _context = context;
         }
 
-        public async Task<IEnumerable<Imagem>> GetAllAsync()
+        public async Task<IEnumerable<Imagem>>
+            GetAllAsync()
         {
             return await _context.Imagens.ToListAsync();
         }
 
-
-        public async Task<Imagem> CreateAsync(Imagem imagem)
+        public async Task<Imagem?> CreateAsync(Imagem imagem)
         {
-           _context.Imagens.Add(imagem);
+            _context.Imagens.Add(imagem);
             await _context.SaveChangesAsync();
             return imagem;
         }
 
         public async Task<bool> DeleteAsync(int id)
         {
-          var imagem = await _context.Imagens.FindAsync(id);
+            var imagem = await _context.Imagens.FindAsync(id);
             if (imagem == null)
             {
                 return false;
             }
+
             _context.Imagens.Remove(imagem);
             return await _context.SaveChangesAsync() > 0;
         }
 
 
-
         public async Task<Imagem?> GetByIdAsync(int id)
         {
             return await _context.Imagens.FindAsync(id);
-
         }
 
         public async Task<bool> UpdateAsync(int id, Imagem imagem)

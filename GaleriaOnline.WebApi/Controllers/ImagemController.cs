@@ -51,7 +51,7 @@ namespace GaleriaOnline.WebApi.Controllers
             var extencao = Path.GetExtension(dto.Arquivo.FileName).ToLower();
             var nomeArquivo = $"{Guid.NewGuid()}{extencao}";
 
-            var pastaRelativa = "wwroot/Imagens";
+            var pastaRelativa = "wwwwroot/Imagens";
             var caminhoPasta = Path.Combine(Directory.GetCurrentDirectory(), pastaRelativa);
 
             if (!Directory.Exists(caminhoPasta))
@@ -111,7 +111,7 @@ namespace GaleriaOnline.WebApi.Controllers
                 var extencao = Path.GetExtension(imagemAtualizada.Arquivo.FileName).ToLower();
                 var nomeArquivo = $"{Guid.NewGuid()}{extencao}";
 
-                var pastaRelativa = "wwroot/Imagens";
+                var pastaRelativa = "wwwroot/Imagens";
                 var caminhoPasta = Path.Combine(Directory.GetCurrentDirectory(), pastaRelativa);
 
                 if (!Directory.Exists(caminhoPasta))
@@ -162,7 +162,7 @@ namespace GaleriaOnline.WebApi.Controllers
                 }
             }
 
-            var deletado = await _repository.UpdateAsync(imagem);
+            var deletado = await _repository.DeleteAsync(id);
             if (!deletado)
             {
                 return StatusCode(500, "Erro ao excluir a imagem do banco");

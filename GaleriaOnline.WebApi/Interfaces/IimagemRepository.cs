@@ -12,10 +12,6 @@ namespace GaleriaOnline.WebApi.Interfaces
         Task<bool> UpdateAsync(int id, Imagem imagem);
 
         Task<bool> DeleteAsync(int id);
-
-
-
-
-
+        //Task<bool> UpdateAsync(Imagem imagem);
     }
 }
