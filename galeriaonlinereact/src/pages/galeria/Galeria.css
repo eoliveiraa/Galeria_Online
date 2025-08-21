@@ -1,0 +1,71 @@
+.tituloGaleria {
+    color: #001923;
+    font-weight: 300;
+    font-size: 50px;
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+
+
+.Formulario {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 50px;
+    width: 100%;
+}
+
+.campoNome {
+    width: 40%;
+}
+
+.campoImagem {
+    width: 10%;
+}
+
+.inputNome,
+.arquivoLabel {
+    background-color: white;
+    border: none;
+    width: 100%;
+    height: 40px;
+    border-radius: 6px;
+    outline: none;
+    padding: 0 7px 0 7px;
+}
+
+.campoLabel label {
+    color: #1b343d;
+}
+
+.arquivoInput{
+    display: none;
+}
+
+.arquivoLabel{
+    border-radius: 5px;
+    display: block;
+    cursor: pointer;
+    text-align: center;
+    align-content: center;
+    margin: 0;
+}
+
+.campoCards{
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+@media screen and (max-whidth: 765px) {
+    .Formulario {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 200px;
+        width: 100%;
+    }
+}

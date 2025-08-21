@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  background: radial-gradient(circle, #1e3a8a, #508ba6);
+    font-family: "JetBrains Mono", monospace;
+
+}
