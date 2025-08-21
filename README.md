@@ -2,6 +2,8 @@
 
 > Um sistema de aprendizado para upload e gerenciamento de imagens, desenvolvido como o objetivo do projeto é explorar conceitos de Web API, persistência de dados e upload de arquivos.
 
+---
+
 🚀 **Tecnologias Utilizadas**
 
 - .NET 6 / ASP.NET Core Web API
