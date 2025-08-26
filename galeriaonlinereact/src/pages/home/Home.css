@@ -1,7 +1,14 @@
-/* body {
+body {
   height: 100vh;
   margin: 0;
   background: radial-gradient(circle, #1e3a8a, #508ba6);
-    font-family: "JetBrains Mono", monospace;
+  font-family: "JetBrains Mono", monospace;
 
-} */
+  display: flex;              /* Ativa flexbox */
+  flex-direction: column;     /* Coloca os elementos em coluna */
+  justify-content: center;    /* Centraliza na vertical */
+  align-items: center;        /* Centraliza na horizontal */
+  text-align: center;         /* Centraliza textos */
+}
+
+

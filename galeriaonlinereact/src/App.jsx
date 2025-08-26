@@ -1,17 +1,12 @@
-
 import './App.css'
-import { Galeria } from './pages/galeria/Galeria'
-// import Routes from "./Routes/routes"
+import Rotas from "./Routes/routes"
 
 function App() {
-
   return (
     <>
-     <Galeria/>
-     {/* <Home/> */}
-     {/* <Routes/> */}
+      <Rotas />
     </>
   )
 }
 
-export default App
+export default App;
