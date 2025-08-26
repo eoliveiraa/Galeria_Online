@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\dto\\imagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:dto\\imagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\interfaces\\iimagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:interfaces\\iimagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +23,12 @@
       "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\repostories\\imagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:repostories\\imagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\models\\imagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:models\\imagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|c:\\users\\54891245808\\desktop\\galeria online\\galeriaonline.webapi\\dto\\imagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87E98E9A-F638-4963-87AF-26B629A13DC6}|GaleriaOnline.WebApi.csproj|solutionrelative:dto\\imagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IimagemRepository.cs",
               "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\Interfaces\\IimagemRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IimagemRepository.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "Interfaces\\IimagemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T11:52:47.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T11:52:47.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -67,25 +66,23 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAEwA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T11:23:31.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T11:23:31.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ImagemController.cs",
               "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
               "RelativeDocumentMoniker": "Controllers\\ImagemController.cs",
               "ToolTip": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
               "RelativeToolTip": "Controllers\\ImagemController.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAIcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAqwKcAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:38:30.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T16:38:30.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ImagemRepository.cs",
               "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\Repostories\\ImagemRepository.cs",
               "RelativeDocumentMoniker": "Repostories\\ImagemRepository.cs",
@@ -93,24 +90,24 @@
               "RelativeToolTip": "Repostories\\ImagemRepository.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAkwDMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T14:30:36.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T14:30:36.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ImagemDto.cs",
               "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\DTO\\ImagemDto.cs",
               "RelativeDocumentMoniker": "DTO\\ImagemDto.cs",
               "ToolTip": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\DTO\\ImagemDto.cs",
               "RelativeToolTip": "DTO\\ImagemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:47:52.978Z"
+              "WhenOpened": "2025-08-19T16:47:52.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "GaleriaOnlineDbContext.cs",
               "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\DbContextImagem\\GaleriaOnlineDbContext.cs",
               "RelativeDocumentMoniker": "DbContextImagem\\GaleriaOnlineDbContext.cs",
@@ -118,12 +115,11 @@
               "RelativeToolTip": "DbContextImagem\\GaleriaOnlineDbContext.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T12:54:26.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T12:54:26.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Imagem.cs",
               "DocumentMoniker": "C:\\Users\\54891245808\\Desktop\\Galeria online\\GaleriaOnline.WebApi\\Models\\Imagem.cs",
               "RelativeDocumentMoniker": "Models\\Imagem.cs",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "Models\\Imagem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T13:45:44.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T13:45:44.268Z"
             }
           ]
         }

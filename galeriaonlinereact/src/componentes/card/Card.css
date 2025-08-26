@@ -1,5 +1,5 @@
-.cardDaImagem{
-    background-color: white;
+.cardDaImagem {
+    background-color:rgb(205, 205, 205);
     border-radius: 10px;
     width: 200px;
     display: flex;
@@ -7,16 +7,33 @@
     align-items: center;
     gap: 10px;
     padding: 20px 0 20px 0;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    /* animação suave */
+    cursor: pointer;
 }
 
-.icons{
+.cardDaImagem:hover {
+    transform: scale(1.05);
+    /* cresce um pouquinho */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    /* sombra mais forte */
+}
+
+.icons {
     width: 100%;
     display: flex;
     justify-content: center;
     gap: 20px;
 }
 
-.imgDoCard{
+.imgDoCard {
     width: 200px;
     height: 200px;
 }
+
+/* .campoCards {
+  display: grid;
+grid-template-columns: repeat(3, auto);
+  gap: 20px;
+  margin-top: 20px;
+  justify-items: center; /* centraliza cada card na coluna */

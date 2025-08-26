@@ -1,5 +1,5 @@
 .tituloGaleria {
-    color: #001923;
+    color: #000000;
     font-weight: 300;
     font-size: 50px;
     text-align: center;
@@ -19,6 +19,9 @@
     width: 40%;
 }
 
+.campoNome label{
+    color: rgb(0, 14, 22);
+}
 .campoImagem {
     width: 10%;
 }
@@ -57,6 +60,12 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 50px;
+}
+
+.imgDoCard{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
 }
 
 @media screen and (max-whidth: 765px) {

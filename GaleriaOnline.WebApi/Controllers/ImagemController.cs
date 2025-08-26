@@ -51,7 +51,7 @@ namespace GaleriaOnline.WebApi.Controllers
             var extencao = Path.GetExtension(dto.Arquivo.FileName).ToLower();
             var nomeArquivo = $"{Guid.NewGuid()}{extencao}";
 
-            var pastaRelativa = "wwwwroot/Imagens";
+            var pastaRelativa = "wwwroot/Imagens";
             var caminhoPasta = Path.Combine(Directory.GetCurrentDirectory(), pastaRelativa);
 
             if (!Directory.Exists(caminhoPasta))
